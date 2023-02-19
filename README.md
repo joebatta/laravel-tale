@@ -1,6 +1,10 @@
 ![Tale Heade](.static/tale.jpg)
 
-# Tale
+![Packagist Version (including pre-releases)](https://img.shields.io/packagist/v/joebatta/laravel-tale?color=%232dd4bf&include_prereleases&style=flat-square)
+![Packagist Downloads](https://img.shields.io/packagist/dm/joebatta/laravel-tale?color=%234ade80&style=flat-square)
+![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/joebatta/laravel-tale/8.1?color=%23c084fc&style=flat-square)
+
+# Tale (Develop)
 
 As a developer, I found myself repeating the same steps over and over when setting up Laravel projects. This involved
 creating files, tweaking configurations, and creating utility classes. To save time and effort, I created Tale - a
