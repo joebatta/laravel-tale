@@ -1,0 +1,36 @@
+{
+    "name": "joebatta/laravel-tale",
+    "description": "My simple Laravel coding knife to share and not repeat myself",
+    "version": "1.0.0",
+    "license": "MIT",
+    "keywords": [
+        "giobatta",
+        "laravel-tale",
+        "tale",
+        "utility"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tale\\": "src/"
+        }
+    },
+    "homepage": "https://github.com/joebatta/laravel-tale",
+    "authors": [
+        {
+            "name": "Joey de Vries",
+            "email": "hi@giobatta.nl",
+            "homepage": "https://giobatta.nl",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tale\\TaleServiceProvider"
+            ]
+        }
+    }
+}
